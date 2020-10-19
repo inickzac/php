@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{A0786B88-2ADB-4C21-ABE8-AA2D79766269}") = "mass", "..\..\..\..\..\Users\Ириша\source\repos\mass\mass\mass.phpproj", "{86824B5B-1438-4B45-B049-F0F9021E45DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86824B5B-1438-4B45-B049-F0F9021E45DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86824B5B-1438-4B45-B049-F0F9021E45DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84258A7B-A7FA-4F90-86A9-7BFB3A3193D9}
+	EndGlobalSection
+EndGlobal
